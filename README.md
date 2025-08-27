@@ -6,14 +6,14 @@ This project analyzes Statistics Canada’s dataset on new motor vehicle sales, 
 * Compare **sales performance across provinces**.
 * Break down sales by **vehicle type** (cars, trucks, etc.).
 * Enable **interactive filtering** by *Year, Province, and Vehicle Type*.
-*
-* ### 📈 Insights Explored
+
+📈 Insights Explored
 * Long-term **trends in Canadian vehicle sales**.
 * Regional **differences in provincial markets**.
 * Sales distribution and preferences by **vehicle category**.
 * Detection of **patterns or anomalies** in sales behavior.
-*
-* ### 🛠️ Report Features 
+
+🛠️ Report Features 
 * Interactive **slicers** for Year, Province, and Vehicle Type.
 * Dynamic **trend lines, bar charts, and pie charts** for clear storytelling.
 * Visually appealing and **user-friendly design** with concise labels
