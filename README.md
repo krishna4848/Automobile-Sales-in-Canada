@@ -1,4 +1,4 @@
-# Automobile-Sales-in-Canada
+# Automobile-Sales-in-Canada - a Data Analysis case study using Power BI
 This project analyzes Statistics Canada’s dataset on new motor vehicle sales, focusing on trends, regional comparisons, and vehicle type distribution. The dataset includes the following fields: Geography, Vehicle Type, Year, and Units Sold.
 
 🔍 Key Objectives 
